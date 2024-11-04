@@ -1,0 +1,1 @@
+Hello, in this module I worked very hard on completing this assignment by using https://www.quickdatabasediagrams.com/ to make my ERD. Then I created tables in pgadmin4 to upload the 6 csv files from the starter file. I was able to rearrange tables and answer the questions all in pgadmin4. It was very satisfying to do. Thank you.
